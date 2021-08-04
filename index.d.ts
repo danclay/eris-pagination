@@ -32,6 +32,8 @@ declare module 'eris-pagination' {
 	pageContent?: string;
 	/** Whether the delete options should exist */
 	disableDelete?: boolean;
+	/** Whether to use a reply. Defaults to false */
+	useReply?: boolean;
   }
 
   /**
