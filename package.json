@@ -26,8 +26,5 @@
   "homepage": "https://github.com/riyacchi/eris-pagination#readme",
   "dependencies": {
     "eris-reactions": "github:danclay/eris-reactions#action-row"
-  },
-  "peerDependencies": {
-    "eris": "^0.13.1"
   }
 }
